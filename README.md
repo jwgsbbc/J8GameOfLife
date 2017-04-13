@@ -8,7 +8,9 @@ https://github.com/jwgsbbc/J8GameOfLife/commit/54c3c5a8ca8f5e3c21603aab76560e31e
 
 ## Setup
 
-Clone or download the source for this Repo
+The bare (no solution) setup can be accessed at this commit: 
+
+https://github.com/jwgsbbc/J8GameOfLife/commit/fe3018bc6903ca223f929b10488ae9c83ccf61e1
 
 Since we're using Java 8 all the code needs to go in the Java 8 lib (/lib). There is a main and an example test in there.
 
