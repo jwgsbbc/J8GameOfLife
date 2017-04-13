@@ -1,5 +1,11 @@
 # J8GameOfLife
 
+## Solution
+
+https://www.youtube.com/watch?v=6_tsZ1y6WVk&list=PLzj8N0bHraZB4soO1QPlmW5JKIPHc14gj
+
+https://github.com/jwgsbbc/J8GameOfLife/commit/54c3c5a8ca8f5e3c21603aab76560e31e911d873
+
 ## Setup
 
 Clone or download the source for this Repo
